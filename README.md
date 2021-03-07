@@ -1,4 +1,4 @@
-## Project-Case-Study-Indian-startups-funding
+## PROJECT : CaseStudy Indian startups funding
 This dataset has funding information of the Indian startups from January 2015 to August 2017.
 ### Feature Details :
 SNo - Serial number.
